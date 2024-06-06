@@ -1,0 +1,12 @@
+/* CSS pour personnaliser la sélection de texte */
+::selection {
+    background-color: #fe9132 !important; /* Couleur de fond */
+    color: #f4f4f4 !important; /* Couleur du texte */
+}
+
+/* Pour Firefox */
+::-moz-selection {
+    background-color: #fd9335 !important; /* Couleur de fond */
+    color: #efefef !important; /* Couleur du texte */
+
+}
