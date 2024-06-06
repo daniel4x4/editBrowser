@@ -1,5 +1,3 @@
----
-
 # Extension de Personnalisation de Navigateur
 
 Cette extension permet de personnaliser divers aspects de votre navigateur, y compris la simulation de recherches instantanées, la personnalisation des images, des couleurs, etc.
@@ -37,5 +35,3 @@ Cette extension est sous licence MIT. Pour plus de détails, consultez le fichie
 ## Auteur
 
 Créée par Daniel ([GitHub](https://github.com/daniel4x4))
-
----
